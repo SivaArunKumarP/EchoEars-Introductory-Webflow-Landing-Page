@@ -29,10 +29,6 @@ The landing page is composed of the following major sections:
 - Product showcase cards
 - Brand and messaging highlights
 
-## How to View
-You may open the exported Webflow project locally or view the hosted version if available.  
-(Insert Webflow published link here if you have one.)
-
 ## Screenshot
 Including a screenshot is recommended to provide immediate visual context for reviewers.
 
@@ -55,5 +51,5 @@ This project was created as part of a Webflow developer application and serves a
 - Competence in building structured, client-ready pages
 
 ## Author
-Your Name  
+Siva Arun Kumar P  
 Webflow Developer Applicant
